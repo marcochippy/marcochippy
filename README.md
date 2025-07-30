@@ -1,7 +1,7 @@
 ### Hi, I'm Marco 👋
 
 * Graphic Designer (B.A.)  
-* Full-Stack bootcamp graduate  
+* Full-Stack Developer  
 * Tech enthusiast
 
 ### Learning and growing with 
